@@ -1,9 +1,9 @@
-# Vue 3 + Supabase + Stripe SaaS Starter
+﻿# Vue 3 + Supabase + Stripe SaaS Starter
 
 **A production-ready SaaS boilerplate for indie developers.** Auth, Postgres + Row Level Security,
 Stripe Checkout and subscription webhooks — already wired, tested end-to-end, deployed on Vercel.
 
-> Live demo: **https://saas-starter-two-theta.vercel.app**
+> Live demo: **https://saasplate.dev**
 > Test card `4242 4242 4242 4242` · any future date · any CVC · ZIP `12345`
 
 ![Landing page](./screenshots/01-homepage.png)
