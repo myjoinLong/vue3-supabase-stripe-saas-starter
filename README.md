@@ -150,6 +150,6 @@ is not allowed.
 ## Where to get the source
 
 The full source, setup guide and troubleshooting notes are sold as a one-time purchase ($29)
-→ **[Gumroad link]** · 14-day refund, no questions asked.
+→ **[https://huanglongjian.gumroad.com/l/saas-starter](https://huanglongjian.gumroad.com/l/saas-starter)** · 14-day refund, no questions asked.
 
 Issues and questions about this preview are welcome in the repo's Discussions tab.
